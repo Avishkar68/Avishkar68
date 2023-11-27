@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avishkar Kakade</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 **I’m currently working on** \n
+- 🔭 **I’m currently working on** <br>
   soundraw website clone
 
 - 🌱 **I’m currently learning**
