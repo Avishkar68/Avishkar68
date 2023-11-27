@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Avishkar Kakade</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 **I’m currently working on** <br>
-  soundraw website clone
+- 🔭 **I’m currently working on:** <br>
+      improving my website designing skill and trying to build new projects
 
-- 🌱 **I’m currently learning**
-  React JS
+- 👯‍♂️ **I am looking to collaborate on:** <br>
+       Fullstack projects
 
-- 👨‍💻 All of my projects are available at
-   [https://github.com/Avishkar68](https://github.com/Avishkar68)
+- 🌱 **I’m currently learning:** <br>
+       React JS
 
-- 💬 **Ask me about**
-   Javascript
+- 💬 **Ask me about** <br>
+       Javascript and other website related topics
 
-- 📫 **How to reach me**
-   kakadeavishkar84@gmail.com
-
-- ⚡ **Fun fact**
-   I am Funny
+- ⚡ **Fun fact** <br>
+        I love creating new projects  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
