@@ -2,9 +2,10 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🔭 **I’m currently working on**
-- soundraw website clone
+  soundraw website clone
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 ""I’m currently learning**
+  React JS
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avishkar68](https://github.com/Avishkar68)
 
