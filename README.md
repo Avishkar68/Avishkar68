@@ -8,7 +8,7 @@
        Fullstack projects
 
 - 🌱 **I’m currently learning:** <br>
-       React JS
+       React-redux toolkit
 
 - 💬 **Ask me about** <br>
        Javascript and other website related topics
