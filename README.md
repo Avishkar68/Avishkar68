@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🔭 **I’m currently working on:** <br>
-      improving my website designing skill and trying to build new projects
+      improving my website developing skill and trying to build new projects
 
 - 👯‍♂️ **I am looking to collaborate on:** <br>
        Fullstack projects
