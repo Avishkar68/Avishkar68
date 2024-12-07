@@ -8,13 +8,13 @@
        Fullstack projects
 
 - 🌱 **I’m currently learning:** <br>
-       Backend for web using javascript frameworks
+       NextJS
 
 - 💬 **Ask me about** <br>
-       Javascript and other website related topics
+       Website related topics
 
 - ⚡ **Fun fact** <br>
-        I love creating new projects  
+        I love travelling  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
