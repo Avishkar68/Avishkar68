@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🔭 **I’m currently working on:** <br>
-      improving my website developing skill and trying to build new projects
+      Helping Businesses Build Professional Websites & Applications
 
 - 👯‍♂️ **I am looking to collaborate on:** <br>
        Fullstack projects
@@ -11,7 +11,7 @@
        NextJS
 
 - 💬 **Ask me about** <br>
-       Website related topics
+       Websites / Agency / SaaS platforms  
 
 - ⚡ **Fun fact** <br>
         I love travelling  
