@@ -1,30 +1,122 @@
-<h1 align="center">Hi 👋, I'm Avishkar Kakade</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+# ⚡ AVISHKAR KAKADE
 
-- 🔭 **I’m currently working on:** <br>
-      Helping Businesses Build Professional Websites & Applications
+### `> Full Stack Engineer | System Thinker | Code Architect`
 
-- 👯‍♂️ **I am looking to collaborate on:** <br>
-       Fullstack projects
+---
 
-- 🌱 **I’m currently learning:** <br>
-       NextJS
+```bash
+Initializing Developer Profile...
+Loading Skills ██████████████ 100%
+Status: BUILDING THE FUTURE ⚡
+```
 
-- 💬 **Ask me about** <br>
-       Websites / Agency / SaaS platforms  
+---
 
-- ⚡ **Fun fact** <br>
-        I love travelling  
+## 🧠 WHO AM I?
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/avishkar-kakade-16536124b/" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/hd-linkedin-blue-official-logo-png-701751694779201bpivk39ebc.png" alt="Linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/avi_68_" target="blank"><img align="center" src="https://allpngfree.com/apf-prod-storage-api/storage/thumbnails/twitter-new-logo-png-transparent-images-thumbnail-1697953256.jpg" alt="Twitter" height="30" width="40" /></a>   
-<a href="https://instagram.com/avi_68_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avi_68_" height="30" width="40" /></a>
-</p>
+I don’t just write code.
+I **engineer systems**, break problems, and rebuild them better.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+* ⚙️ Think in **logic, not syntax**
+* 🧩 Solve problems like **modular architecture**
+* 🚀 Build with **performance + scalability mindset**
+* 🎯 Focused on **clean, efficient, production-level code**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishkar68&show_icons=true&locale=en&layout=compact" alt="avishkar68" /></p>
+---
 
+## ⚔️ TECH STACK (MY WEAPONS)
+
+### 🧑‍💻 Core Languages
+
+```txt
+C / C++  → Logic & DSA Foundation
+Java     → OOP + System Thinking
+Python   → Automation & Flexibility
+JavaScript → The Web Engine
+```
+
+---
+
+### 🌐 Frontend Arsenal
+
+```txt
+HTML5        → Structure
+CSS3         → Design Control
+TailwindCSS  → Rapid UI Development
+React.js     → Component-based Architecture
+```
+
+---
+
+### 🛠 Backend & Databases
+
+```txt
+Node.js   → Runtime Power
+Express   → API Engineering
+MySQL     → Structured Data Handling
+Oracle    → Enterprise Level DB
+```
+
+---
+
+### ⚡ Dev Mindset
+
+```txt
+✔ Clean Code > Quick Code
+✔ Performance > Fancy Features
+✔ Logic > Copy-Paste
+✔ Systems > Scripts
+```
+
+---
+
+## 🧬 ENGINEERING PHILOSOPHY
+
+> “If it works, optimize it.
+> If it breaks, understand it.
+> If it scales, own it.”
+
+---
+
+## 🚀 CURRENT STATE
+
+```yaml
+mode: "execution"
+focus: "full stack mastery"
+learning_curve: "aggressive"
+goal: "elite developer"
+```
+
+---
+
+## 🧩 HOW I APPROACH PROBLEMS
+
+1. Break the system
+2. Understand the flow
+3. Optimize the weakest point
+4. Rebuild stronger
+
+---
+
+## ⚡ DIGITAL PRESENCE
+
+```txt
+Portfolio → https://avishkarkakade.vercel.app/
+LinkedIn  → https://www.linkedin.com/in/avishkar-kakade-16536124b/
+```
+
+---
+
+## 🧠 FUN FACT
+
+```txt
+I don't debug code.
+I interrogate it until it confesses.
+```
+
+---
+
+## ⚡ FINAL LINE
+
+> “I’m not here to write code.
+> I’m here to build things that **scale, perform, and last.**”
